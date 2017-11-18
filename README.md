@@ -1,4 +1,10 @@
-[![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
+WebflowStarter
+===
+
+This is an attempt at creating a starter theme to convert Webflow themes to Wordpress themes. The base theme is Underscores. The Webflow base CSS is loaded in after normalize.css. I added some basic sctructure to Page and Single templates using the Webflow grid.
+
+This is a work-in-progress intended to speed up my workflow. If anyone wants to contribute let me know. There seems to be a lot of people looking for a simple solution to move webflow -> wordpress.
+
 
 _s
 ===
